@@ -41,5 +41,5 @@ const InputArea = () => {
       </IconButton>
     </div>
   )
-}
+} 
 export default InputArea
